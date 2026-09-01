@@ -31,10 +31,14 @@
             "id": "00bade3a832605ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Разработка технических текстов и документации/01.09.2027.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.09.2027"
             }
           }
         ]
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Разработка технических текстов и документации/01.09.2027.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Разработка технических текстов и документации/01.09.2027.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,6 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Разработка технических текстов и документации/01.09.2027.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
