@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/whiz-developer/yapping-recs.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
